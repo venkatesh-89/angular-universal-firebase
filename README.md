@@ -1,6 +1,6 @@
 # AngularUniversalFirebase
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.9.
 
 ### Building your app
 
@@ -9,6 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - `mv public/index.html public/index2.html`
 
 ### Deploying to 'angular-universal-fireba-35bf1'
+- `firebase deploy`
+
 ```
 i  deploying functions, hosting
 i  functions: ensuring necessary APIs are enabled...
